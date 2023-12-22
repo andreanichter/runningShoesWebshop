@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "model": "Air Zoom Pegasus 38",
+    "price": 129.99,
+    "description": "The Nike Air Zoom Pegasus 38 is a versatile and comfortable running shoe suitable for all types of runners.",
+    "color": "Black/White",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "brand": "Adidas",
+    "model": "Ultra Boost 21",
+    "price": 169.99,
+    "description": "The Adidas Ultra Boost 21 offers responsive cushioning and a lightweight design for long-distance running.",
+    "color": "Grey/Black",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "brand": "New Balance",
+    "model": "Fresh Foam 1080v11",
+    "price": 139.99,
+    "description": "The New Balance Fresh Foam 1080v11 provides plush cushioning and a comfortable fit for runners seeking maximum comfort.",
+    "color": "Blue/White",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "brand": "Brooks",
+    "model": "Ghost 14",
+    "price": 129.99,
+    "description": "The Brooks Ghost 14 offers a smooth and stable ride with excellent cushioning for neutral runners.",
+    "color": "Navy/Red",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "brand": "Saucony",
+    "model": "Ride 14",
+    "price": 119.99,
+    "description": "The Saucony Ride 14 is a versatile running shoe known for its comfort and durability, suitable for daily training.",
+    "color": "Black/Grey",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "brand": "Hoka One One",
+    "model": "Clifton 8",
+    "price": 159.99,
+    "description": "The Hoka One One Clifton 8 offers a lightweight and cushioned experience for runners looking for a soft landing.",
+    "color": "Red/White",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "brand": "Mizuno",
+    "model": "Wave Rider 25",
+    "price": 129.99,
+    "description": "The Mizuno Wave Rider 25 delivers a smooth and responsive ride for runners who seek a well-cushioned shoe.",
+    "color": "Blue/Green",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "brand": "ASICS",
+    "model": "GEL-Nimbus 23",
+    "price": 159.99,
+    "description": "The ASICS GEL-Nimbus 23 provides exceptional cushioning and support for long-distance runners.",
+    "color": "Silver/Black",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "brand": "Under Armour",
+    "model": "Charged Pursuit 2",
+    "price": 79.99,
+    "description": "The Under Armour Charged Pursuit 2 is a budget-friendly running shoe with reliable performance.",
+    "color": "Grey/Black",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "brand": "Reebok",
+    "model": "Forever Floatride Energy 3",
+    "price": 109.99,
+    "description": "The Reebok Forever Floatride Energy 3 offers a responsive and lightweight design for runners on a budget.",
+    "color": "Black/White",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "brand": "Nike",
+    "model": "Air Zoom Vomero 15",
+    "price": 139.99,
+    "description": "The Nike Air Zoom Vomero 15 offers plush cushioning and a comfortable fit for long-distance runners.",
+    "color": "Blue/White",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "brand": "Adidas",
+    "model": "Solar Boost 3",
+    "price": 149.99,
+    "description": "The Adidas Solar Boost 3 provides a responsive and energy-returning ride for serious runners.",
+    "color": "Black/Red",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "brand": "New Balance",
+    "model": "FuelCell Prism",
+    "price": 129.99,
+    "description": "The New Balance FuelCell Prism is a stability running shoe with a lightweight design for overpronators.",
+    "color": "Grey/Pink",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "brand": "Brooks",
+    "model": "Levitate 4",
+    "price": 149.99,
+    "description": "The Brooks Levitate 4 delivers a springy and energetic ride for runners who crave responsiveness.",
+    "color": "Black/Yellow",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "brand": "Saucony",
+    "model": "Guide 14",
+    "price": 129.99,
+    "description": "The Saucony Guide 14 is a stability running shoe that offers support and cushioning for moderate overpronators.",
+    "color": "Blue/Green",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "brand": "Hoka One One",
+    "model": "Bondi 7",
+    "price": 159.99,
+    "description": "The Hoka One One Bondi 7 is known for its maximum cushioning and comfortable fit, ideal for long-distance runs.",
+    "color": "Black/White",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "brand": "Mizuno",
+    "model": "Wave Inspire 17",
+    "price": 139.99,
+    "description": "The Mizuno Wave Inspire 17 is a support running shoe with a responsive and stable ride for overpronators.",
+    "color": "Navy/Red",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "brand": "ASICS",
+    "model": "GEL-Kayano 28",
+    "price": 169.99,
+    "description": "The ASICS GEL-Kayano 28 is a premium stability running shoe offering excellent support and cushioning.",
+    "color": "Blue/White",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": 19,
+    "brand": "Under Armour",
+    "model": "Charged Assert 9",
+    "price": 79.99,
+    "description": "The Under Armour Charged Assert 9 is an affordable running shoe with reliable performance for everyday runs.",
+    "color": "Grey/Black",
+    "size": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "brand": "Reebok",
+    "model": "Floatride Energy 4",
+    "price": 119.99,
+    "description": "The Reebok Floatride Energy 4 offers a responsive and lightweight design, perfect for budget-conscious runners.",
+    "color": "Black/Red",
+    "size": [
+      "7.5",
+      "8.5",
+      "9.5",
+      "10.5",
+      "11.5"
+    ],
+    "rating": 4.5
+  }
+]

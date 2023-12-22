@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "brand": "ASICS, Nike",
+    "model": "GEL-Nimbus 23, Air Zoom Pegasus 38",
+    "quantity": "2, 1",
+    "size": "9.5, 7",
+    "price": [
+      159.99,
+      129.99
+    ],
+    "total": 289.98,
+    "date": {
+      "year": 2023,
+      "month": 10,
+      "day": 21,
+      "hour": 13,
+      "minute": 30
+    },
+    "customer": {
+      "name": "Andrea",
+      "street": "gggs",
+      "city": "bxb",
+      "email": "laura@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Adidas, ASICS",
+    "model": "Ultra Boost 21, GEL-Kayano 28",
+    "quantity": "1, 2",
+    "size": "10.5, 11.5",
+    "price": [
+      169.99,
+      169.99
+    ],
+    "total": 339.98,
+    "date": {
+      "year": 2023,
+      "month": 12,
+      "day": 22,
+      "hour": 11,
+      "minute": 4
+    },
+    "customer": {
+      "name": "Andrea",
+      "street": "bxb",
+      "city": "bxb",
+      "email": "laura@example.com"
+    }
+  }
+]
