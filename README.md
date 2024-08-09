@@ -1,4 +1,4 @@
-### Running Shoes Webshop
+# Running Shoes Webshop
 Welcome to the Running Shoes Webshop! This is a full-stack e-commerce application where users can browse running shoes, add them to their cart, and proceed to checkout. The frontend is built with React, Vite, and vanilla CSS, while the backend is powered by Express.js and MongoDB. 
 This project was created as a collaboration in the Web Development module of the Full Stack Developer course at Codecool.
 
